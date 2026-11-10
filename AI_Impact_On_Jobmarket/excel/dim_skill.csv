@@ -1,0 +1,26 @@
+skill_id,skill_name,skill_category
+S001,AI Literacy,AI & Data
+S002,Data Analysis,AI & Data
+S003,Critical Thinking,Human Skills
+S004,Communication,Human Skills
+S005,Cybersecurity,Technology
+S006,Cloud Computing,Technology
+S007,Programming,Technology
+S008,Creative Problem Solving,Human Skills
+S009,Digital Marketing,Business
+S010,Robotics,Technology
+S011,Emotional Intelligence,Human Skills
+S012,Project Management,Business
+S013,Prompt Engineering,AI & Data
+S014,Data Privacy,Technology
+S015,Machine Learning,AI & Data
+S016,Adaptability,Human Skills
+S017,Healthcare Technology,Domain Skills
+S018,Supply Chain Analytics,AI & Data
+S019,Renewable Energy Systems,Domain Skills
+S020,User Experience Design,Technology
+S021,Statistical Analysis,AI & Data
+S022,Automation Tools,Technology
+S023,Financial Modelling,Business
+S024,Teaching and Coaching,Domain Skills
+S025,Systems Thinking,Human Skills

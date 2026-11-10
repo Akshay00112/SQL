@@ -1,0 +1,9 @@
+country_id,country_name,region,digital_readiness_index,ai_adoption_index,skills_readiness_index,gdp_per_capita_ppp_usd
+IN,India,Asia,0.72,0.78,0.62,18500
+US,United States,North America,1.12,1.08,1.05,78000
+GB,United Kingdom,Europe,1.02,1.0,0.98,59000
+DE,Germany,Europe,1.0,0.98,1.02,62000
+JP,Japan,Asia,0.98,0.95,1.08,54000
+BR,Brazil,South America,0.82,0.88,0.75,23000
+CA,Canada,North America,1.03,1.01,1.0,57000
+AU,Australia,Oceania,1.06,1.04,1.03,65000

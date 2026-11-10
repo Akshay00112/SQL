@@ -1,0 +1,41 @@
+occupation_id,occupation_title,industry_id
+O001,Data Analyst,IND01
+O002,AI/ML Engineer,IND01
+O003,Software Developer,IND01
+O004,Cybersecurity Analyst,IND01
+O005,IT Support Specialist,IND01
+O006,Cloud Architect,IND01
+O007,Database Administrator,IND01
+O008,UX/UI Designer,IND01
+O009,Registered Nurse,IND02
+O010,Medical Laboratory Technician,IND02
+O011,Radiology Technologist,IND02
+O012,Healthcare Administrator,IND02
+O013,Financial Analyst,IND03
+O014,Accountant,IND03
+O015,Risk and Compliance Analyst,IND03
+O016,Customer Service Representative,IND03
+O017,Industrial Robot Technician,IND04
+O018,Quality Control Inspector,IND04
+O019,Production Supervisor,IND04
+O020,Mechanical Engineer,IND04
+O021,Teacher / Educator,IND05
+O022,Learning Experience Designer,IND05
+O023,Education Technology Specialist,IND05
+O024,Retail Sales Associate,IND06
+O025,E-commerce Operations Manager,IND06
+O026,Digital Marketing Specialist,IND06
+O027,Supply Chain Analyst,IND07
+O028,Logistics Coordinator,IND07
+O029,Autonomous Vehicle Technician,IND07
+O030,Agricultural Technician,IND08
+O031,Precision Agriculture Specialist,IND08
+O032,Food Processing Operator,IND08
+O033,Video Editor,IND09
+O034,Content Strategist,IND09
+O035,Renewable Energy Engineer,IND10
+O036,Smart Grid Technician,IND10
+O037,Energy Data Analyst,IND10
+O038,Wind Turbine Technician,IND10
+O039,HR Specialist,IND03
+O040,Project Manager,IND01
